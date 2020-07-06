@@ -1,4 +1,4 @@
-# Giriş #
+# Giriş
 
 PHP programlama dünyasında, bir dizi eğilim bazı insanlar tarafından (kendi kitaplarında ve web sitelerinde) "Modern PHP" olarak pazarlanırken, aynı zamanda diğer tüm yaklaşımlar sanki ilkel, aptalca veya yanlış olarak sunuluyor.
 
@@ -10,13 +10,14 @@ Bu web sitesi PHP ile programlama yapanlara pragmatik bir bakış sunmak amacıy
 
 Her türlü katkıya ve yardıma açığız.
 
-## Diğer Diller ##
+## Diğer Diller
 
-* [Danish](http://www.phpthewrongway.com/da/)
-* [English](http://www.phpthewrongway.com/)
-* [French](http://www.phpthewrongway.com/fr/)
-* [Japanese](http://www.phpthewrongway.com/ja/)
-* [Persian](http://www.phpthewrongway.com/fa/)
-* [Portuguese](http://www.phpthewrongway.com/pt_br/)
-* [Russian](http://www.phpthewrongway.com/ru/)
-* [Spanish](http://www.phpthewrongway.com/es/)
+- [Danish](http://www.phpthewrongway.com/da/)
+- [English](http://www.phpthewrongway.com/)
+- [French](http://www.phpthewrongway.com/fr/)
+- [Japanese](http://www.phpthewrongway.com/ja/)
+- [Persian](http://www.phpthewrongway.com/fa/)
+- [Portuguese](http://www.phpthewrongway.com/pt_br/)
+- [Russian](http://www.phpthewrongway.com/ru/)
+- [Spanish](http://www.phpthewrongway.com/es/)
+- [Türkçe](http://www.phpthewrongway.com/tr/)
